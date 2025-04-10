@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 🌐 [Portfolio](#) *(Coming Soon!)*
 - 💼 [LinkedIn](#)
 - 🐦 [Twitter](#)
-- 📧 Email: [francis2030@example.com](mailto:francis2030@example.com)
+- 📧 Email: [franciskahura2030@gmail.com](mailto:francis2030@example.com)
 
 ## 🌟 Fun Facts
 - 🎨 I dabble in digital art and design in my spare time.
